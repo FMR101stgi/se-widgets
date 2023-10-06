@@ -51,7 +51,7 @@ const POSSESSIONS = {};
 const SIGHTINGS = {};
 
 const OPTIONAL_OBJECTIVES = {
-  candle: "Candle",
+  candle: "Firelight",
   crucifix: "Crucifix",
   emf: "EMF",
   escape: "Escape",
@@ -64,7 +64,7 @@ const OPTIONAL_OBJECTIVES = {
   repel: "Repel",
   salt: "Salt",
   sanity: "<25% Sanity",
-  smudge: "Smudge"
+  smudge: "Incense"
 }
 
 const LOCATIONS = [
